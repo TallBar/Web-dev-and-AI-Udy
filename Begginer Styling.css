@@ -1,0 +1,33 @@
+body {
+  background-color: green;
+  color: white;
+}
+h1 {
+  background-color: blue;
+  color: : yellow;
+}
+ol {
+  background-color: pink;
+  border: 5px solid black;
+  border-color: black;
+  color: red;
+}
+table {
+  border: 3px solid blue;
+  background-color: gray;
+  color: red;
+}
+th {
+  color: white;
+  border: 3px solid blue;
+}
+td {
+  border: 3px solid blue;
+}
+img {
+  max-width: 70%;
+  max-width: 100px;
+}
+p {
+  background-color: blue;
+}

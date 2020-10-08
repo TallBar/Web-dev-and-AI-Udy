@@ -1,0 +1,23 @@
+body {
+  background-color: red;
+}
+h1 {
+  color: gold;
+  text-align: center;
+  text-transform: capitalize;
+  font-family: "Agency FB";
+  font-size: 20px;
+}
+ p.a {
+   background-color: red;
+   color: gold;
+   text-align: justify;
+   line-height: 15px;
+   border: 3px solid black;
+ }
+  p.b {
+    color: blue;
+    text-transform: lowercase;
+    font-size: 15px;
+    border: blue solid 3px;
+  }

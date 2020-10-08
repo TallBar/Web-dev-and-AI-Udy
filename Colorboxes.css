@@ -1,0 +1,35 @@
+h1 {
+  color: blue;
+  background-color: pink;
+}
+
+body {
+  border: 3px solid black;
+}
+.All {
+  background-color: purple;
+}
+
+.high {
+  background-color: red;
+  height: 10px;
+  width: 200px;
+  position: relative;
+  left: 40px;
+}
+
+.middle {
+  background-color: Black;
+  height: 50px;
+  width: 150px;
+  position: relative;
+  left: 200px;
+}
+
+.low {
+  background-color: gold;
+  height: 30px;
+  width: 10px;
+  position: relative;
+  left: 350px;
+}

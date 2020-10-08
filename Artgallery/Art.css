@@ -1,0 +1,104 @@
+body {
+  background-color: #202287;
+}
+
+h1 {
+  text-align: center;
+  position:relative;
+  top: 10px;
+}
+
+h2 {
+  color: #5543BA;
+  text-indent: 10px;
+}
+
+#description {
+  text-align: justify;
+  color: #5543BA;
+  border: 4px solid #1C7CD6;
+  padding: 10px;
+  margin: 10px;
+  position: relative;
+  bottom: 10px;
+}
+
+#pgtitle {
+  color: #5543BA;
+  padding: 10px;
+  border: 5px solid #5543BA;
+  display: inline-block;
+}
+
+.start {
+  background-color: #5CA0F2;
+}
+
+.Images {
+  text-align: center;
+  background-color: #1C7CD6;
+  border: 5px solid #1647A1;
+  position: relative;
+  top: 50px;
+  padding: 10px;
+  width: max-content;
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+img {
+  max-width: 300px;
+  max-height: 150px;
+  margin-right: 10px;
+  filter: grayscale(100%);
+  filter: blur(100%);
+}
+
+.tempt:hover {
+  filter: grayscale(0%);
+  color:black
+}
+
+ul {
+  list-style-type: none;
+  overflow: hidden;
+  color: #1C7CD6
+}
+
+li {
+  float: left;
+  background-color: #1C7CD6;
+  border: 5px solid #1647A1;
+  padding: 10px;
+  margin: 0 52px;
+}
+
+#lastli {
+  margin-left: 120px;
+}
+
+#lastpic {
+  height: 150px;
+  width: auto;
+}
+
+#cpright {
+  color: white;
+  margin: 10px;
+  border: 4px solid black;
+  background-color: gray;
+  padding-right: 10px;
+  padding-left: 10px;
+  position: fixed;
+  left: 0px;
+  bottom: 0px;
+}
+
+#shop {
+  position: relative;
+  top: 50px;
+  background-color: #5543BA;
+  text-align: justify;
+  text-indent: 10px;
+  width: max-content;
+}

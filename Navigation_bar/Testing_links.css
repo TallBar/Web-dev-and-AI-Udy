@@ -1,0 +1,33 @@
+.navbar {
+  background-color: #969696;
+  width: max-content;
+}
+
+#basic {
+  color: white;
+  margin: 50px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+#elementar {
+  color: black;
+  border: 4px solid black;
+  position: relative;
+  top: 70px;
+  padding: 5px;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a#basic:hover {
+  background-color: black;
+}
+
+a#elementar:hover {
+  background-color: black;
+  color: white;
+  border: 4px solid white;
+}
