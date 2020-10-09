@@ -1,0 +1,23 @@
+table,tr,td {
+  border: 3px solid black;
+  border-collapse: collapse;
+}
+
+th {
+  padding-right: 10px;
+  padding-left: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  color: white;
+  background-color: black;
+}
+
+tr {
+  background-color: magenta;
+  text-align: center;
+}
+
+tr:hover {
+  background-color: white;
+  color:magenta;
+}
