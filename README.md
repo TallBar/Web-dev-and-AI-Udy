@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 usage: git [--version] [--help] [-C <path>] [-c <name>=<value>]
            [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
            [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
@@ -44,7 +43,3 @@ collaborate (see also: git help workflows)
 concept guides. See 'git help <command>' or 'git help <concept>'
 to read about a specific subcommand or concept.
 See 'git help git' for an overview of the system.
-=======
-# Web-dev-and-AI-Udy
-Specific online courses programming exercises
->>>>>>> c7624623e80e62e9368e577a21ffb7d5a757e0c3
