@@ -1,0 +1,27 @@
+/* 
+Using display: none and block to change visibility 
+ */
+/* General */
+
+/* Space of the object */
+#field {
+  position: relative;
+  top: 40px;
+  background-color: gray;
+  display: none;
+  width: 1200px;
+  height: 400px;
+  margin: 0 auto;
+}
+
+/* Object */
+#object {
+  position: relative;
+  top: 0px;
+  left: 0px;
+  display: block;
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  border-radius: 0%;
+}
