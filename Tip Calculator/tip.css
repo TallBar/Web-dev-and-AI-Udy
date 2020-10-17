@@ -1,0 +1,44 @@
+body {
+  background-color: darkslateblue;
+}
+
+h1 {
+  position: relative;
+  text-align: center;
+}
+h3 {
+  position: relative;
+  text-align: center;
+  color: darkred;
+  background-color: sienna;
+}
+
+p {
+  text-align: center;
+}
+
+button {
+  margin: 10px auto;
+  display: block;
+  background-color: #de6e4b;
+  padding-top: 5px;
+  text-decoration: none;
+  font-size: 16px;
+  border: 0px;
+  border-radius: 5px 5px 5px 5px;
+}
+
+form {
+  position: relative;
+  text-align: center;
+}
+
+div#form {
+  background-color: lightsalmon;
+  width: 300px;
+  height: auto;
+  margin: auto;
+  border: 5px;
+  display: block;
+  border-radius: 10px 10px 10px 10px;
+}
